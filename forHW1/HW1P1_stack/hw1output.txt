@@ -1,0 +1,129 @@
+Script started on Fri 11 Sep 2020 11:16:38 AM PDT
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[port002@empress HW1P1_stack]$ logo./a.oug++ client1.cpp stack.cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ g++ client1.cpp stack.cplogout./a.out
+type a postfix expression: 765+*
+STACK:---------
+7
+--------------
+STACK:---------
+6
+7
+--------------
+STACK:---------
+5
+6
+7
+--------------
+STACK:---------
+11
+7
+--------------
+STACK:---------
+77
+--------------
+Result: 77
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 76-+
+STACK:---------
+7
+--------------
+STACK:---------
+6
+7
+--------------
+STACK:---------
+-1
+--------------
+Too few operands/operators 
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 87777777777777777777
+STACK:---------
+8
+--------------
+STACK:---------
+7
+8
+--------------
+STACK:---------
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+7
+7
+7
+7
+8
+--------------
+STACK:---------
+7
+7
+7
+7
+7
+7
+7
+7
+7
+8
+--------------
+Too many operands/operators 
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 76(
+STACK:---------
+7
+--------------
+STACK:---------
+6
+7
+--------------
+Invalid item Error
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ exit
+exit
+
+Script done on Fri 11 Sep 2020 11:18:56 AM PDT

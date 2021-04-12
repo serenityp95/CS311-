@@ -1,0 +1,261 @@
+Script started on Fri 11 Sep 2020 05:47:16 PM PDT
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[port002@empress HW1P1_stack]$ logo/cs/recordhw Test2.t[5Pemacs client1.cp/cs/recordhw Test1.t[3Pemacs stacktest.cplscd HW1P1_stac[5PforHHWPrograCS311Procs311filelsex./a.oug++ stack.cpp client1.cp./a.out[[[[[[[[Kg++ client1.cpp stack.cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+7
+--------------
+Result: 7
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 23345+*
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+5
+4
+3
+--------------
+STACK:---------
+9
+3
+--------------
+STACK:---------
+27
+--------------
+Result: 27
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 722+-
+STACK:---------
+7
+--------------
+STACK:---------
+2
+7
+--------------
+STACK:---------
+2
+2
+7
+--------------
+STACK:---------
+4
+7
+--------------
+STACK:---------
+3
+--------------
+Result: 3
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+56++
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+7
+--------------
+STACK:---------
+5
+7
+--------------
+STACK:---------
+6
+5
+7
+--------------
+STACK:---------
+11
+7
+--------------
+STACK:---------
+18
+--------------
+Result: 18
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+STACK:---------
+1
+--------------
+STACK:---------
+2
+1
+--------------
+STACK:---------
+3
+--------------
+STACK:---------
+3
+3
+--------------
+STACK:---------
+4
+3
+3
+--------------
+STACK:---------
+12
+3
+--------------
+STACK:---------
+4
+12
+3
+--------------
+STACK:---------
+5
+4
+12
+3
+--------------
+STACK:---------
+9
+12
+3
+--------------
+STACK:---------
+3
+3
+--------------
+STACK:---------
+6
+--------------
+Result: 6
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 1234567891234
+STACK:---------
+1
+--------------
+STACK:---------
+2
+1
+--------------
+STACK:---------
+3
+2
+1
+--------------
+STACK:---------
+4
+3
+2
+1
+--------------
+STACK:---------
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+9
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+1
+9
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+Too many operands/operators: Overflow
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: +
+Too few operands/operators: Underflow
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3+
+STACK:---------
+3
+--------------
+Too few operands/operators: Underflow
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3#
+STACK:---------
+3
+--------------
+Invalid item Error
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 2345+
+STACK:---------
+2
+--------------
+STACK:---------
+3
+2
+--------------
+STACK:---------
+4
+3
+2
+--------------
+STACK:---------
+5
+4
+3
+2
+--------------
+STACK:---------
+9
+3
+2
+--------------
+Result: 9
+Incomplete expression.
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW1/HW1P1_stack[port002@empress HW1P1_stack]$ exit
+exit
+
+Script done on Fri 11 Sep 2020 05:50:27 PM PDT
