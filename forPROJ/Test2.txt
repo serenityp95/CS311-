@@ -1,0 +1,163 @@
+Script started on Thu 17 Dec 2020 05:50:43 PM PST
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forPROJ[?1034h[port002@empress forPROJ]$ ex./a.oug++ elem.cpp htable.cpp llist.cpp projclient1.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[ogo./a.oug++ elem.cpp htable.cpp llist.cpp slist.cpp projclient1.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+What is the input file?neinputfulile
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using year
+4. Add a new song
+5. Delete a song
+6. Save data to a file
+7. Exit
+==>1
+loaded data...
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using year
+4. Add a new song
+5. Delete a song
+6. Save data to a file
+7. Exit
+==>2
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ 
+Sweater Weather,    The Neighborhood,    C,    Novice, 2012, ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ empty ]
+11:[ empty ]
+12:[ empty ]
+13:[ empty ]
+14:[ 
+Your Song,    Elton John,    Eb,    Novice, 1970, ]
+15:[ empty ]
+16:[ empty ]
+17:[ 
+Someone Like You,    Adele,    G,    Novice, 2011, ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ 
+Old Town Road,  Lil Nas X,  Ab,  Novice, 2019, ]
+22:[ empty ]
+23:[ empty ]
+24:[ empty ]
+25:[ empty ]
+26:[ 
+Jolene,    Dolly Parton,    C#m,    Novice, 1973, ]
+27:[ 
+She Will Be Loved,   Maroon 5,   Am,   Novice, 2002, ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ 
+Can't Help Falling in Love,    Elvis Presley,    C,    Intermediate, 1961, 
+Photograph,    Ed Sheeran,    E,    Novice, 2014, ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ empty ]
+37:[ empty ]
+38:[ empty ]
+39:[ empty ]
+40:[ empty ]
+41:[ empty ]
+42:[ 
+Fly Me To The Moon,    Frank Sinatra,    Am,    Novice, 1964, ]
+43:[ empty ]
+44:[ 
+Riptide,    Vance Joy,    Bbm,    Novice, 2013, ]
+45:[ empty ]
+46:[ empty ]
+47:[ empty ]
+48:[ empty ]
+49:[ empty ]
+50:[ empty ]
+51:[ empty ]
+52:[ empty ]
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using year
+4. Add a new song
+5. Delete a song
+6. Save data to a file
+7. Exit
+==>6
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ empty ]
+11:[ empty ]
+12:[ empty ]
+13:[ empty ]
+14:[ ]
+15:[ empty ]
+16:[ empty ]
+17:[ ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ ]
+22:[ empty ]
+23:[ empty ]
+24:[ empty ]
+25:[ empty ]
+26:[ ]
+27:[ ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ empty ]
+37:[ empty ]
+38:[ empty ]
+39:[ empty ]
+40:[ empty ]
+41:[ empty ]
+42:[ ]
+43:[ empty ]
+44:[ ]
+45:[ empty ]
+46:[ empty ]
+47:[ empty ]
+48:[ empty ]
+49:[ empty ]
+50:[ empty ]
+51:[ empty ]
+52:[ empty ]
+Sent data to newout
+Remember to rename newout to input file
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using year
+4. Add a new song
+5. Delete a song
+6. Save data to a file
+7. Exit
+==>7
+No action
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forPROJ[port002@empress forPROJ]$ exit
+exit
+
+Script done on Thu 17 Dec 2020 05:52:45 PM PST
