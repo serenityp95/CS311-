@@ -1,0 +1,51 @@
+Script started on Thu 24 Sep 2020 12:57:39 PM PDT
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[?1034h[port002@empress HW2P1_search]$ g++ binsearch.cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ g++ binsearch.cp[11Plogomore Test.tx[8@/cs/recordhw[C[C[C[C[C[C[C[C[d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[2Pemacs binsearch.cplscd HW2P1_sear[6PforHHWProgramsCS311Progscs311filels./a.out
+What do you want to look for? 1
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 0
+Found it in position 1
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 19
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+comparing against an element in slot 9
+Found it in position 10
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 5
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+Found it in position 3
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 17
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Found it in position 9
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 21
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+comparing against an element in slot 9
+Element not found
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 0
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 0
+Element not found
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ ./a.out
+What do you want to look for? 6
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+comparing against an element in slot 3
+Element not found
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW2/HW2P1_search[port002@empress HW2P1_search]$ exit
+exit
+
+Script done on Thu 24 Sep 2020 12:58:46 PM PDT
