@@ -1,0 +1,101 @@
+Script started on Mon 30 Nov 2020 06:41:34 PM PST
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[?1034h[port002@empress forHW8]$ g++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist. cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[port002@empress forHW8]$ ./a.out
+Enter Key: 123
+Enter Name: Allie
+Enter Key: 456
+Enter Name: Izzy
+Enter Key: 789
+Enter Name: Jasmin
+Enter Key: 987
+Enter Name: Remmi
+Enter Key: 654
+Enter Name: Rune
+Enter Key: 321
+Enter Name: Mary
+Enter Key: 147
+Enter Name: Aaron
+Enter Key: 258
+Enter Name: Yasmine
+Enter Key: 369
+Enter Name: Paul
+Enter Key: 741
+Enter Name: Paula
+Enter Key: 852
+Enter Name: Mark
+Enter Key: 963
+Enter Name: Ozzy
+Enter Key: 951
+Enter Name: Sara
+Enter Key: 753
+Enter Name: Autumn
+Enter Key: 564
+Enter Name: Emily
+Enter Key: 720
+Enter Name: John
+Enter Key: 639
+Enter Name: Eric
+Enter Key: 711
+Enter Name: Hannah
+Enter Key: 822
+Enter Name: Klaus
+Enter Key: 933
+Enter Name: Allison
+0:[ empty ]
+1:[ 741 Paula 852 Mark 963 Ozzy ]
+2:[ empty ]
+3:[ empty ]
+4:[ empty ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ 711 Hannah 822 Klaus 933 Allison ]
+9:[ 564 Emily ]
+10:[ 639 Eric ]
+11:[ empty ]
+12:[ 123 Allie 456 Izzy 789 Jasmin ]
+13:[ 753 Autumn ]
+14:[ empty ]
+15:[ empty ]
+16:[ empty ]
+17:[ 720 John ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ empty ]
+24:[ empty ]
+25:[ 987 Remmi 654 Rune 321 Mary ]
+26:[ 951 Sara ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ 147 Aaron 258 Yasmine 369 Paul ]
+Look for? (-1 to quit) 
+123
+Found: 123 Allie
+Look for? (-1 to quit) 
+456
+Found: 456 Izzy
+Look for? (-1 to quit) 
+222
+Error: Element Not Found
+Look for? (-1 to quit) 
+888
+Error: Element Not Found
+Look for? (-1 to quit) 
+147
+Found: 147 Aaron
+Look for? (-1 to quit) 
+-1
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[port002@empress forHW8]$ exit
+exit
+
+Script done on Mon 30 Nov 2020 06:46:01 PM PST
