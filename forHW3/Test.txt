@@ -1,0 +1,42 @@
+Script started on Fri 23 Oct 2020 10:30:40 AM PDT
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW3[?1034h[port002@empress forHW3]$ logoemacs slist.cp[8P./a.oug++ slist.cpp HW3P2client.cpp llist.cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW3[port002@empress forHW3]$ g++ slist.cpp HW3P2client.cpp llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clogoutemacs slist.cp[8P./a.out
+calling the llist constructor
+slist constructor:
+Step 1 addFront
+Step 2 addRear
+Step 3
+[ 4 6 7 8 ]
+Step 4
+Found 6 in location 2
+Step 5 replace 6
+Step 6
+[ 4 0 7 8 ]
+Step 7
+Found 8 in location 4
+Step 8 replace 8
+Step 9
+[ 4 0 7 2 ]
+Step 10
+Found 5 in location 0
+Step 11 replace 7
+ERROR: Bad position was given
+calling the llist destructor
+---- First Part testing done ----- 
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+true
+false
+false
+true
+false
+false
+false
+calling the llist destructor
+calling the llist destructor
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW3[port002@empress forHW3]$ exit
+exit
+
+Script done on Fri 23 Oct 2020 10:31:03 AM PDT
