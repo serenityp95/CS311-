@@ -1,0 +1,102 @@
+Script started on Fri 13 Nov 2020 07:30:05 PM PST
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW6[?1034h[port002@empress forHW6]$ g++ dgraph.cpp hw6client.cpp llist.cpp slist.cpp
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW6[port002@empress forHW6]$ ./a.out
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+calling the llist constructor
+slist constructor:
+Enter a file name: table.txt
+The number of edges is: 9
+Vertex  Out  Adj
+A       2   [ B F ]
+B       2   [ C G ]
+C       1   [ H ]
+D       0   [ empty ]
+E       0   [ empty ]
+F       2   [ I E ]
+G       0   [ empty ]
+H       2   [ G I ]
+I       3   [ A G E ]
+Specify vertex or enter 0 to quit: A
+Degree: 2
+Adjacency: 
+[ B F ]
+calling the llist destructor
+Specify vertex or enter 0 to quit: D
+Degree: 0
+Adjacency: 
+[ empty ]
+calling the llist destructor
+Specify vertex or enter 0 to quit: I
+Degree: 3
+Adjacency: 
+[ A G E ]
+calling the llist destructor
+Specify vertex or enter 0 to quit: v
+Error: Bad Vertex
+Specify vertex or enter 0 to quit: c
+Error: Bad Vertex
+Specify vertex or enter 0 to quit: b
+Error: Bad Vertex
+Specify vertex or enter 0 to quit: 0
+Error: Bad Vertex
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+calling the llist destructor
+]0;port002@empress:~/cs311files/CS311Progs/HWPrograms/forHW6[port002@empress forHW6]$ exit
+exit
+
+Script done on Fri 13 Nov 2020 07:31:16 PM PST
